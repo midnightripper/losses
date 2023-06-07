@@ -19,3 +19,4 @@
 .config/
 .cache/
 .ipynb_checkpoints/
+.finalData/
