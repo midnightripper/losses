@@ -2,3 +2,14 @@
 *.txt
 *.mat
 *.sh
+*.trashinfo
+.cache/pip/http/a/1/9/5/3/a19537d3cf37c122db841d6fe4cd322bc10d1a558bb00d146b85cb9a
+.cache/pip/selfcheck/241e69162522ccf5846a2f42ebc24b17464915a155679666b89a9f31
+*.sqlite
+*.db
+*.json
+*.html
+.ipython/profile_default/startup/README
+.local/share/jupyter/notebook_secret
+.local/share/jupyter/runtime/notebook_cookie_secret
+.local/share/Trash/files/tripletloss-jvsc-db299602-b9b7-459f-933b-ad4b5eb13411ece542ea-95e1-453c-9aab-f06ed975bb96.ipynb
