@@ -91,5 +91,3 @@ In this diagram, we have the following components:
 4. **Distance Calculation:** The computation of distances or similarities between pairs of embeddings in the embedding space.
 5. **Similarity Scores:** The resulting similarity scores obtained from the distance calculation, indicating how similar or dissimilar the pairs of instances are.
 6. **N-pair Loss Optimization:** The optimization process that minimizes the N-pair loss function to learn embeddings that maximize the similarity between positive pairs and minimize the similarity between negative pairs.
-
-Feel free to modify the diagram to suit your specific needs or add more details as required.
