@@ -18,3 +18,4 @@
 .ipython/
 .config/
 .cache/
+.ipynb_checkpoints/
