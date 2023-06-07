@@ -13,3 +13,8 @@
 .local/share/jupyter/notebook_secret
 .local/share/jupyter/runtime/notebook_cookie_secret
 .local/share/Trash/files/tripletloss-jvsc-db299602-b9b7-459f-933b-ad4b5eb13411ece542ea-95e1-453c-9aab-f06ed975bb96.ipynb
+.local/
+.keras/
+.ipython/
+.config/
+.cache/
